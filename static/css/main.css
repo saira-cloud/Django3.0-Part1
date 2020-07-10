@@ -1,0 +1,17 @@
+
+body{
+    margin: 0;
+    padding: 0%;
+    background-color:whitesmoke;
+}
+#total-orders{
+    background-color: grey;
+
+}
+#orders-delivered{
+    background-color: grey;
+
+}
+#orders-pending{
+    background-color: grey;
+}
